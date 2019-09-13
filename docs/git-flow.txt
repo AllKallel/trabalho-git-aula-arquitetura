@@ -1,0 +1,5 @@
+Permite que uma equipe com centenas de desenvolvedores trabalhem no mesmo projeto, sem erros.
+permite que a interligação de diferentes cetores da empresa.
+gera maior segurança no desenvolvimento de projetos, já que tudo é vercionado
+é bem rápido, já que as operações são processadas localmente.
+Gera autonomia no desenvolvimento do projeto, já que a rede só é necessária para trocar informações com os repositórios. 
